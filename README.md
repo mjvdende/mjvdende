@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mjvdende
 - 👀 I’m interested in testing software
-- 🌱 I’m currently learning node
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on automated testing
 - 📫 How to reach me @mjvdende
 
